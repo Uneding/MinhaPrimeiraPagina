@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g3RPYr1U8ovflKWAqP7779oyPP4NczV2zAGYnRO+Tes=",
+  "Hash": "AWiz8wFNnz5fCFyOmT65CbHvH1s28LJKJKROCb2Bgfw=",
   "Source": "MinhaPrimeiraPagina",
   "BasePath": "_content/MinhaPrimeiraPagina",
   "Mode": "Default",
@@ -17,7 +17,7 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\atividades\\João_Paulo\\MinhaPrimeiraPagina\\wwwroot\\index.html",
+      "Identity": "d:\\atividades\\João_Paulo\\MinhaPrimeiraPagina\\wwwroot\\index.html",
       "SourceId": "MinhaPrimeiraPagina",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\atividades\\João_Paulo\\MinhaPrimeiraPagina\\wwwroot\\",
@@ -36,7 +36,7 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\atividades\\João_Paulo\\MinhaPrimeiraPagina\\wwwroot\\sobre.html",
+      "Identity": "d:\\atividades\\João_Paulo\\MinhaPrimeiraPagina\\wwwroot\\sobre.html",
       "SourceId": "MinhaPrimeiraPagina",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\atividades\\João_Paulo\\MinhaPrimeiraPagina\\wwwroot\\",
